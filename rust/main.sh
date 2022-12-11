@@ -17,4 +17,4 @@
 #  If no arguments are given, user will be prompted for the day on stdin. 
 # Your code will be passed the input and timed automatically.
 
-RUST_BACKTRACE=1 cargo run 10
+RUST_BACKTRACE=1 cargo run 11
